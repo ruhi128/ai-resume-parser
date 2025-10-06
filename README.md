@@ -1,3 +1,12 @@
+#  ResuMind- AI resume parser
+
+ResuMind is an AI resume parser built using with React, React Router, and Puter.js. This project was created by following a YouTube tutorial.  
+
+## 🎥 Credits  
+
+This project is based on a YouTube tutorial.  
+- 🎬 **YouTube Video:** [Build and Deploy a Full AI-Powered Applicant Tracking System](https://www.youtube.com/watch?v=iYOz165wGkQ&t=2508s)  
+- 💻 **Original GitHub Repository:** [adrianhajdin/ai-resume-analyzer](https://github.com/adrianhajdin/ai-resume-analyzer)  
 <div align="center">
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
@@ -5,8 +14,6 @@
         <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
     <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
   </div>
-
-  <h3 align="center">AI Resume Parser</h3>
 </div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
