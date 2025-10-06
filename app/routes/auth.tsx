@@ -49,5 +49,4 @@ const Auth = () => {
         </main>
     )
 }
-
-export default Auth
+export default Auth;
