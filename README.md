@@ -1,10 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
-      <img src="public/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
-
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -12,11 +6,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
   </div>
 
-  <h3 align="center">AI Resume Analyzer</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <h3 align="center">AI Resume Parser</h3>
 </div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -37,21 +27,21 @@
 
 - **[Zustand](https://github.com/pmndrs/zustand)** is a minimal, hook-based state management library for React. It lets you manage global state with zero boilerplate, no context providers, and excellent performance through selective state subscriptions.
 
-## <a name="features">🔋 Features</a>
+## <a name="features">🚀 Features</a>
 
-👉 **Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
+- **Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
 
-👉 **Resume upload & storage**: Let users upload and store all their resumes in one place, safely and reliably.
+- **Resume upload & storage**: Let users upload and store all their resumes in one place, safely and reliably.
 
-👉 **AI resume matching**: Provide a job listing and get an ATS score with custom feedback tailored to each resume.
+- **AI resume matching**: Provide a job listing and get an ATS score with custom feedback tailored to each resume.
 
-👉 **Reusable, modern UI**: Built with clean, consistent components for a great-looking and maintainable interface.
+- **Reusable, modern UI**: Built with clean, consistent components for a great-looking and maintainable interface.
 
-👉 **Code Reusability**: Leverage reusable components and a modular codebase for efficient development.
+- **Code Reusability**: Leverage reusable components and a modular codebase for efficient development.
 
-👉 **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
+- **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
 
-👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+- **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
 
 And many more, including code architecture and reusability.
 
